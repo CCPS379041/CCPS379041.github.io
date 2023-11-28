@@ -1,1 +1,36 @@
-
+p { 
+  font-family:-arial;
+  color: red;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+footer {
+  margin-top: 50px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  background-color: #242f44;
+  z-index: 5;
+}
+h1 {
+  font-size: 36px;
+  padding: 15px;
+  color: #8c6b48;
+  background-color: white;
+}
+ol {
+    list-style: sqaure;
+    color: seagreen
+}
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+body {
+  background: #EEE;
+  margin: 0;
+  padding: 0;
+}
